@@ -1,0 +1,3 @@
+# 42-day-01
+
+These are the exercises Daddy and I did together...
